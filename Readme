@@ -1,0 +1,10 @@
+This is an attempt for a simple calcular app
+
+Functionality:
+-Takes in 2 numbers
+-Allows the user to choose if they want to add/subtract/multiply/divide
+-Returns the result
+
+Bugs:
+-Application quits if any button is pressed before numbers are entered
+-Divide button stays on the bottom right (unable to move it due to some unknown reason)
